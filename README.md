@@ -1,5 +1,4 @@
-### Hi there 👋, my name is HM Fahim
-## Flutter Developer
+## Hi there 👋, My Name Is HM Fahim
 
 # 💫 About Me:
 🔭 I’m currently working on Mobile App development using Flutter.<br>👯 I’m looking to collaborate on innovative Flutter projects that push the boundaries of mobile app development.<br>🤝 I’m looking for help with optimizing performance and implementing complex UI/UX designs in Flutter.<br>🌱 I’m learning advanced state management techniques and animation in Flutter to create smoother user experiences.<br>💬 Ask me anything about Flutter, from widgets and layouts to packages and plugins!<br>⚡ Fun fact: When I'm not coding in Flutter, you can find me exploring new hiking trails or experimenting with gourmet cooking recipes.
